@@ -100,7 +100,7 @@ Specifications and tools for establishing agent identity, authentication, and tr
 - [DID (Decentralized Identifiers)](https://www.w3.org/TR/did-core/) - W3C standard for cryptographic agent identity without central authority. Used as the foundation for ANP and decentralized agent networks.
 - [WorkOS](https://workos.com) - Enterprise identity and auth platform increasingly used for AI agent authorization. Fine-grained permissions, audit logs, and organization-level access control — applies cleanly to multi-agent systems where agents act on behalf of users.
 - [Permit.io](https://permit.io) - Policy-based authorization for apps and agents. Define what agents are allowed to do via ReBAC/ABAC policies. Supports runtime policy updates without redeploy.
-
+- [SSOJet](https://ssojet.com) - Simplifies Enterprise SSO, OIDC, SAML, and SCIM integration for modern B2B SaaS and AI applications..
 ---
 
 ## Observability & Debugging

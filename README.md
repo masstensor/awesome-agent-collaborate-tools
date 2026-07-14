@@ -126,6 +126,7 @@ SDKs, CLIs, and utilities that accelerate building multi-agent systems.
 
 - [im-for-agents-python](https://github.com/masstensor/im-for-agents-python) - Python SDK for IM for Agents. Send and receive messages between agents with minimal boilerplate.
 - [multi-agent-starter](https://github.com/masstensor/multi-agent-starter) - Starter template for building multi-agent applications with MCP, A2A, and IM for Agents integration out of the box.
+- [OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay) - Open-source CLI for making an existing local agent or automation callable by teammates and other agents over a trusted LAN while keeping its implementation and credentials on the publisher's machine.
 - [Dapr](https://dapr.io) - Distributed Application Runtime. Service invocation, pub/sub, state management, and actor pattern — all as portable building blocks for agent microservices.
 - [BeeAI Framework](https://github.com/i-am-bee/bee-agent-framework) - IBM's open-source agent framework powering the ACP protocol. Production-ready with tool use, memory, and structured output.
 - [FastMCP](https://github.com/jlowin/fastmcp) - The fastest way to build MCP servers in Python. Decorator-based API similar to FastAPI. Used by tens of thousands of MCP server authors. Now part of the official MCP Python SDK.

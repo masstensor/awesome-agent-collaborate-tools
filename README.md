@@ -80,6 +80,7 @@ Tools for persisting agent context, shared knowledge, cross-session memory, and 
 - [Cognee](https://github.com/topoteretes/cognee) - Knowledge-graph-first memory for agents. Builds structured knowledge graphs from unstructured data for rich semantic retrieval.
 - [LangMem](https://github.com/langchain-ai/langmem) - LangChain's memory abstraction layer. Multiple memory types (episodic, semantic, procedural) with a unified API.
 - [Supermemory](https://github.com/supermemoryai/supermemory) - Universal memory API for AI agents. Import from anywhere, query with semantic search. Designed as a "memory backbone" across multiple agents.
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust CLI and MCP knowledge store for shared agent notes. Encrypted append-only records with scoped, expiring grants for each agent.
 - [Redis (State Management)](https://redis.io) - Fast in-memory store for short-term agent state, session data, and distributed locks. Essential for stateful multi-agent systems requiring sub-millisecond access.
 - [Chroma](https://github.com/chroma-core/chroma) - Open-source embedding database. The most popular vector store for agent memory. Simple API, runs locally or in the cloud. pip install chromadb.
 - [Qdrant](https://github.com/qdrant/qdrant) - High-performance vector database written in Rust. Excellent for production agent long-term memory with filtering, payload indexing, and sparse vector support.

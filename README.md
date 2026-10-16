@@ -30,6 +30,7 @@ Standards and protocols that define how agents discover, communicate, and delega
 - [ANP (Agent Network Protocol)](https://agent-network-protocol.com) - Decentralized protocol for open agent networks, built on W3C DID standards. Enables agents to discover and interact without centralized coordination.
 - [UTCP (Universal Tool Calling Protocol)](https://github.com/universal-tool-calling-protocol/utcp-agent) - Exposes tools to models using the tool's native endpoint rather than requiring an MCP wrapper. Contributed to Linux Foundation alongside ACP.
 - [OpenAI Agents SDK — Handoffs](https://platform.openai.com/docs/guides/agents) - First-class agent-to-agent handoff primitives in OpenAI's Agents SDK. Allows agents to delegate tasks with full context transfer.
+- - [ACP-lite (Agent Connect Personal)](https://github.com/furoute/acp-lite) - Lightweight personal cross-host messaging for AI agents: one "post office" per machine over Syncthing file sync, Ed25519-signed envelopes, hash-chained audit, zero-token delivery. MIT.
 
 ---
 

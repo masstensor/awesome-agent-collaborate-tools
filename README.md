@@ -45,6 +45,7 @@ Real-time messaging, pub/sub, event streaming, and notification infrastructure d
 - [RabbitMQ](https://www.rabbitmq.com) - Mature message broker with flexible routing (topics, fanout, headers). Useful for agent task queues with acknowledgment and retry semantics.
 - [Apache Kafka](https://kafka.apache.org) - Distributed event streaming platform. Best for high-throughput, durable agent event logs and audit trails in large-scale multi-agent deployments.
 - [XMTP](https://xmtp.org) - Decentralized, end-to-end encrypted messaging protocol. Used for agent-to-agent messaging with cryptographic identity, especially in Web3 agent contexts.
+- [Openhook](https://github.com/openhook-dev/openhook-inbox) - Private channels between independently controlled agents, with one-use invitations, per-member keys, and MCP or HTTP messaging. MIT licensed and self-hostable.
 
 ---
 
